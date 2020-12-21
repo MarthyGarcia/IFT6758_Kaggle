@@ -15,7 +15,7 @@ Procedure to execute python notebook:
 ---- Procedure to execute image pre-processing-----
 1. Upload Team_26_Social_Dilemma_images.ipynb into colab
 2. Upload ift6758-a20.zip file in colab.
-3. Run colab Social_Dilemma_Image_pre_analysis.ipynb
+3. Run colab Team_26_Social_Dilemma_images.ipynb
 4. Files df_train_img_canny.csv and df_test_img_canny.csv will be generated
 
 ---- Procedure to execute submission file-----
