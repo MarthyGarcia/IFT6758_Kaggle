@@ -7,7 +7,7 @@ Files for Images submission. This folder contains the following files:
 
 1. submission_27_Reset.csv corresponds to the prediction generated.
 2. Team_26_Social_Dilemma_images.ipynb. Python notebook focused on image pre-traitment.
-3. Social_Dilema_06_12_2020_submission27_vMG.ipynb. Python notebook to generate file
+3. Social_Dilema_submission27_Reset.ipynb. Python notebook to generate file
 4. ift6758-a20.zip. all files for prediction
 5. df_test_img_canny.csv and df_train_img_canny.csv. Files generated after image treatment.
 
@@ -20,7 +20,7 @@ Procedure to execute python notebook:
 
 ---- Procedure to execute submission file-----
 1. Upload df_train_img_canny.csv and df_test_img_canny.csv into colab. 
-2. Upload Social_Dilema_06_12_2020_submission27_vMG.ipynb file in colab.
+2. Upload Social_Dilema_submission27_Reset.ipynb file in colab.
 2. Run colab until submission file generated. Notes:
 	1.All the parameter tuning cells have been commented.
 	2.EDA has commented. It is not required for submission generation.
