@@ -6,7 +6,7 @@ Our best submission does not include images processing. However, we added this s
 Files for Images submission. This folder contains the following files:
 
 1. submission_27_Reset.csv corresponds to the prediction generated.
-2. Team_26_Social_Dilemma_images.ipynb. Python notebook focused on image pre-traitment.
+2. Team_26_Social_Dilemma_images.ipynb. Python notebook focused on image preprocessing and clustering.
 3. Social_Dilema_submission27_Reset.ipynb. Python notebook to generate file
 4. ift6758-a20.zip. all files for prediction
 5. df_test_img_canny.csv and df_train_img_canny.csv. Files generated after image treatment.
