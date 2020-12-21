@@ -1,4 +1,4 @@
-# IFT6758_Kaggle
+# IFT6758_Kaggle Best submission
 The main task for the data challenge is to predict the number of 'likes' for given details about the simulated profiles of users on social media.
 
 Files for Best submission. This folder contains the following files:

@@ -1,4 +1,4 @@
-# IFT6758_Kaggle
+# IFT6758_Kaggle Images
 The main task for the data challenge is to predict the number of 'likes' for given details about the simulated profiles of users on social media.
 
 Our best submission does not include images processing. However, we added this submission which includes image analysis. The purpose is to exemplify the data processing required and how it was included in the prediction. Due to colab capabilities, data processing was done in a separated colab notebook.
